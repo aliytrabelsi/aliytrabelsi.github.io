@@ -1,14 +1,17 @@
 # Aliyah Trabelsi
 
 ## À propos de moi
-Étudiant(e) passionné(e) en information-communication, je suis spécialisé(e) en...
+Actuellement en troisième année de BUT Information Communication parcours numérique, je suis pleine de motivation, avec une profonde volonté de bien faire. Je sais m’adapter à différentes situations et sais travailler seule comme en équipe. Je suis passionnée de cinéma et adore produire de manière audiovisuelle et rédactionnelle.
 
-## Formation
-- **2023:** Master en Information-Communication, Université XYZ.
-- **2021:** Licence en Communication, Université ABC.
+## Formations
+- **Depuis septembre 2021:** IUT Bordeaux Montaigne
+  BUT Information numérique dans les organisations
+- **2018-2021:** Lycée de l'Image et du Son d'Angoulême
+  Bac général Mention Bien avec spécialité Géopolitique Sciences politiques et Cinéma Audiovisuel  
 
 ## Expériences professionnelles
-- **2022:** Stage chez [Nom de l'entreprise](#), description...
+- **2017:**Stage de découverte au sein de La Charente Libre(#),
+  Réalisation de plusieurs articles.
 
 ## Compétences
 - Communication digitale
