@@ -34,10 +34,19 @@ Actuellement en troisième année de BUT Information Communication parcours num�
 
 
 ## Compétences
-- Communication digitale
+- Final Cut Pro 
+- Canva
+- Rédaction
+- Capacité d'interview
+- Veille
+- Photoshop / Indesign
+- Eloquence
+- Anglais
+- Espagnol
 - Rédaction web
-- ...
+
 
 ## Contact
-- Email: exemple@email.com
-- LinkedIn: [Mon LinkedIn](https://www.linkedin.com/in/monprofil/)
+- Email: aliyah.trabelsi@gmail.com
+- Téléphone: 07 82 66 34 90
+- [Mon LinkedIn](https://www.linkedin.com/in/monprofil/)
